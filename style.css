@@ -69,10 +69,11 @@ section.imagem{
 
 section#imagens{
     background-image: url(imagens/background001.jpg);
-    background-position: center center;
+    background-position: left center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
     
 }
 section#outro{
@@ -81,6 +82,7 @@ section#outro{
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
 }
 
 
